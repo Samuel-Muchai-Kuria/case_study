@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bulk-read-apni-mandi",
+  "private_key_id": "7f91d6889c5ecc30165b5952a7637e28bfd45026",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDWgJi5KO3x+mo4\nHdWiLiJCDDO1pitVcVHQXUbBojKqNw/9dAy/x5PdgEtBn3yQycE0QVjlXfvFj+Y0\nbQHDIZICw+xivAjILpwc3XEFQYeN/S3yH9CpPR8YldHEv13Y5GoTi05sN3/zgY04\nnRWW6nkCf1tzdpKFR0tV2Nd5e8WTjx3zrDdcPL1i25U1nagXL5jA/VSw/quM7BhS\nksNasKMDHZuwTMdPw40jmTKXdeo1xsquayIzYVORFeCyoLFgbm0K6J+Z2qV098hQ\nTeLn2R6Zk3mPWsHfNw15ejwLXQln5H0kSqpFMfFC+gvnm3wz9JOzkLB8PeiNoBUh\nGdBV0CfPAgMBAAECggEAJ5uwV8Rwh5WjZoBP0fYt2j9RjxHDf7AAmPaYWan/LAIl\n4Dm9Hu6V5blKbDAsernehK0qYpQjqPvk2LpmMGdzBDK0ZBjvkDNXHVdghsVuZ/Af\nu01XpOCF7O7BQNDLXgDze29mSEJJTKgX8SPEeE0MkkL9GomDDbw3836qbyLFPXVB\nj4T3UawGAaunFeGnky9vLx+rJ7d4sscOfIt/LeWti2jIoR8kpcNWDrn8yQvrtGiL\nU8jiVCJlKwViCpCfe3RoBANcKtuQn1IVGHW+tmoWAA2bR1WeSiLp+SQpqrjc6CGW\n6GGfuxKSCRF3OixH0RXF6BiZNsQIDt/PjSwjEUWc4QKBgQD+al1UP2w9Dob9B7uR\nRBRQkekNksUyzLeNH1PHruPXXkCzq6sxsZYtXVsysFl0xl6OZziEnP1yApaYOsYC\n9F+QjrXpJQAgulVc9TI8xEAfk8MGDGoaL1nvHfe4D7W6JCXiCwQ7Zk/G1Ojq5nSp\nhFkiZywmtUs1LWgb+62Mjib8LwKBgQDX1phe0hGW8Hpx4OL6g0pyzw1Ke+onsUPN\nEqW/Fk4KHyZKRY8Rkvc7tG3h4ktPd3Yz9R054DQmfXIXjLrqwLhnYvwT4Vl/ib4H\nEpKrquUXIsMFkA7W+OUfinr0+JtP9n0fH7y0eZxoJR2thQniTP56IhV027oggLmk\nBW73qxaGYQKBgQCu1JEGD/9lhdIll2bB0LLVGy+38CArZJrOE7UTB4/ytAZqcZHX\nOF4nFnxRPPZ8VMUtvqkMGIXiDv1F5z2jUiNJx4giixanZuS6WJUJRSN7j6L5SRaw\nn9GBjGpqxgDvxV9zEnb6CrjPvgfBRFTvGM/X4GZqwzLHfEiK0kzUxersaQKBgQDS\nl4dDvSN8alaOFiZg1wkky/Dj49OrtsG4raEauOCb75ikjwnw07x2fK1Z4Doq5xxl\nxZsmhSNdCrjvUVhvBGroNSRPIWj5j6PhsrV42d18nWY7XzubdG3aQHuH2alwc8fR\nPl4YmS+KTeyPCWeDbiw9blQRGPKaE/8Nkl+bN0tbAQKBgQDEE+Ot8qJdE83vuOwH\nOCOqOSMFzPevpWPaDfqha4AUz81iRxvI73JePkqhmje/f8lALv+zQMSk6f5whH0n\nsWmHjOdi84ZEK7xhpgNczS422ibG+dpBNXC8LbHsXwvkj6nzBnf1Naj3rpRQP8tL\n0GRNPOL6k6igvvVEhBHVa69GVg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bullk-read-service-account@bulk-read-apni-mandi.iam.gserviceaccount.com",
+  "client_id": "101796292774784882545",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bullk-read-service-account%40bulk-read-apni-mandi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
